@@ -24,7 +24,7 @@ Debt Remittance is currently a cumbersome process that requires days to validate
 
 ## Video Demo:
 
-[![Watch the video](https://drive.google.com/file/d/16s3O91uQQqMBbdAQd3gGbVvEx5zw1G3_)
+[Watch the video](https://drive.google.com/file/d/16s3O91uQQqMBbdAQd3gGbVvEx5zw1G3_)
 
 ## Tech-Stack and Tools:
 
@@ -35,7 +35,7 @@ Debt Remittance is currently a cumbersome process that requires days to validate
 * HTML, CSS, Javascript, jQuery
 
 
-##Credits :
+## Credits :
 Team Semicolon :
 * [Ronak Doshi](https://www.github.com/Ronak-59)
 * [Tito Nadar](https://www.github.com/TitoNadar)
