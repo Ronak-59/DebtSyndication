@@ -20,8 +20,6 @@ Debt Remittance is currently a cumbersome process that requires days to validate
 ![Web Portal](Screenshots/page1.JPG)
 
 
-![Analaysis](Screenshots/admindashboard.JPG)
-
 ## Video Demo:
 
 [Watch the video](https://drive.google.com/file/d/16s3O91uQQqMBbdAQd3gGbVvEx5zw1G3_)
